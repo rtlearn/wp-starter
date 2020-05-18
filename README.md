@@ -20,3 +20,14 @@ There are three ways to use this template repo:
 **Advantages**
 1. You will not have to configure anything. You can just accept the assignment from the link and start pushing your codes right away. 
 2. As you are repo-admin for your copy, at any time, you can move the repo to your personal space. Afterall, you should have right over your code. 
+
+### 2. "Use this template" option 
+
+1. You can click "Use this template" button or [visit this link](https://github.com/rtlearn/wp-starter/generate)
+2. You will be prompted to select name/destination for new repo. 
+3. Please note that you may need to configure automated code review yourself. If you do not, your assignment may not be considered for review.
+   
+### 3. Clone or Fork as a normal repo
+
+You are free to do whatever you would like to do with this repo. Please note that you may need to configure automated code review yourself. 
+
