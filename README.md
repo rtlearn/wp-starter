@@ -1,6 +1,6 @@
 # wp-starter
 
-This is a Github [template repo](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-template-repository) with just a readme file that you are reading right now and a magical `.github` folder which contains [Github Actions](https://github.com/features/actions) that @rtBot — the non-human rtCamper — uses to automatically check your code against [WordPress Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/).
+This is a Github [template repo](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-template-repository) with just a readme file that you are reading right now and a magical `.github` folder which contains [Github Actions](https://github.com/features/actions) that automatically check your code against [WordPress Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/).
 
 As you are here, you are most likely looking to work with rtCamp where code quality is very important to us. But even if you have no intention to join rtCamp, you are free to use this repo and automated checks present in it, to improve your WordPress coding skill. 
 
