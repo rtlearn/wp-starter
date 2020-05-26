@@ -29,4 +29,10 @@ There are three ways to use this template repo:
    
 ### 3. Clone or Fork as a normal repo
 
-You are free to do whatever you would like to do with this repo. Please note that you may need to configure automated code review yourself. 
+You are free to do whatever you would like to do with this repo. Please note that you may need to configure automated code review yourself.
+
+## Automated PHPCS checks
+1. The [coding standard rulest](phpcs.xml) in the automated PHPCS checks are configured to check database, security, and basic code analysis related checks mainly. [Ref. to list of rulesets](https://github.com/WordPress/WordPress-Coding-Standards#rulesets).
+2. It will not check for inline code comments, code formatting, and spacing issues, those checks have been excluded. But it is good to have these as well in your code.
+3. [This](https://learn.rtcamp.com/lessons/coding-standards-and-best-practices/) is a good starting point for understanding the WordPress Coding Standards.
+4. [Guide](https://github.com/WordPress/WordPress-Coding-Standards#using-phpcs-and-wpcs-from-within-your-ide) to setup the WordPress Coding Standard checks in your IDE.
