@@ -36,6 +36,7 @@
 		<exclude name="Squiz.WhiteSpace.SemicolonSpacing"/>
 		<exclude name="Squiz.WhiteSpace.ObjectOperatorSpacing"/>
 		<exclude name="Generic.Files.EndFileNewline.NotFound" />
+		<exclude name="Internal.Tokenizer.Exception" />
 		<exclude name="PEAR.Functions.FunctionCallSignature.SpaceAfterOpenBracket" />
 		<exclude name="PEAR.Functions.FunctionCallSignature.SpaceBeforeCloseBracket" />
 		<exclude name="PEAR.Functions.FunctionCallSignature.Indent" />
